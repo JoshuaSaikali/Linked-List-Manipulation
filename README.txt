@@ -1,4 +1,4 @@
-Purpose :  Managing patients arriving at a hospital emergency department. For Assignment 4.
+Purpose :  Managing patients arriving at a hospital emergency department.
 Developer Name: Joshua Saikali
 Date: November 24th 2022
 
